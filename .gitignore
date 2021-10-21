@@ -1,0 +1,5 @@
+.DS_Store
+/時系列解析/
+/pandas_groupby/
+.venv/
+.ipynb_checkpoints/
